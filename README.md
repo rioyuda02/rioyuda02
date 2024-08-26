@@ -10,7 +10,7 @@
 
 - 📝 I regularly write articles on [www.coinmidi.com](www.coinmidi.com)
 
-- 💬 Ask me about **React, Swift, nextJS, etherJS, Solidity, Typescript, Javascript, python, C++**
+- 💬 Ask me about **Solidity, React, nextJS, etherJS, Typescript, Javascript, python, C++**
 
 - 📫 How to reach me **rio.yudayanto244@gmail.com**
 
