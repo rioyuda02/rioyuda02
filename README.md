@@ -22,7 +22,7 @@
 
 <h4 align="left">Frontend Development:</h4>
 <p align="left">  
-<a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/rioyuda02/Icons/main/React/react.svg" alt="React" width="40" height="40"/></a><span>React</span><div></div>
+<a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/rioyuda02/Icons/main/React/react.svg" alt="React" width="40" height="40"/></a><span>React</span><span> </span>
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/rioyuda02/Icons/main/NextJSbyVercel/vercel.svg" alt="React" width="40" height="40"/></a><span>NextJS</span>
   
 </p>
