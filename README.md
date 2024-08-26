@@ -15,8 +15,12 @@
 - 📫 How to reach me **rio.yudayanto244@gmail.com**
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">  </p>
+<h3 align="left">Programming Languages:</h3>
+<h4 align="left">:</h4>
+<p align="left">  
+<a href="https://docs.soliditylang.org/en/v0.8.26/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/rioyuda02/Icons/main/Solidity/ethereum.svg" alt="Solidity" width="40" height="40"/>Solidity</a>
+  
+</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rioyuda02&show_icons=true&locale=en&layout=compact" alt="rioyuda02" /></p>
 
