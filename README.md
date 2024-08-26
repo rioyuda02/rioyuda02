@@ -19,6 +19,7 @@
 <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/rioyuda02/Icons/main/JS/js.svg" alt="JS" width="40" height="40"/></a>&#160&#160
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/rioyuda02/Icons/main/TypeScript/typescript.svg" alt="Typescript" width="40" height="40"/></a>&#160&#160
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/rioyuda02/Icons/main/Python/python.svg" alt="Python" width="40" height="40"/></a>&#160&#160
+<a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/rioyuda02/Icons/main/Java/java.svg" alt="Java" width="40" height="40"/></a>&#160&#160
 <a href="https://en.wikibooks.org/wiki/C%2B%2B_Programming" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/rioyuda02/Icons/main/C%2B%2B/c.svg" alt="C++" width="40" height="40"/></a>&#160&#160
 
 <h4 align="left">Smart Contract:</h4>
@@ -33,6 +34,7 @@
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/rioyuda02/Icons/main/ExpressJS/expressjs.svg" alt="ExpressJS" width="40" height="40"/></a>&#160&#160
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/rioyuda02/Icons/main/VueJS/vueJS.svg" alt="VueJS" width="40" height="40"/></a>&#160&#160
 <a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/rioyuda02/Icons/main/Flask/flask.svg" alt="Flask" width="40" height="40"/></a>&#160&#160
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/rioyuda02/Icons/main/Bootstrap/bootstrap.svg" alt="Bootstrap" width="40" height="40"/></a>&#160&#160
 <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/rioyuda02/Icons/main/Sass/sass.svg" alt="Sass" width="40" height="40"/></a>&#160&#160
 <a href="https://web.dev/learn/css" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/rioyuda02/Icons/main/CSS/css.svg" alt="CSS" width="40" height="40"/></a>&#160&#160
 
