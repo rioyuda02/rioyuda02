@@ -19,6 +19,11 @@
 <h4 align="left">Smart Contract:</h4>
 <p align="left">  
 <a href="https://docs.soliditylang.org/en/v0.8.26/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/rioyuda02/Icons/main/Solidity/ethereum.svg" alt="Solidity" width="40" height="40"/></a><span>Solidity</span>
+
+<h4 align="left">Frontend Development:</h4>
+<p align="left">  
+<a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/rioyuda02/Icons/main/React/react.svg" alt="React" width="40" height="40"/></a><span>React</span>
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/rioyuda02/Icons/main/NextJSbyVercel/vercel.svg" alt="React" width="40" height="40"/></a><span>NextJS</span>
   
 </p>
 
