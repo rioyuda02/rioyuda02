@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rioyuda02" alt="rioyuda02" /></a> </p>
 
-- 🔭 I’m currently working on [Xottle](www.xottle.asia)
 
 - 🌱 I’m currently learning **Blockchain, Web3 - dApp, Smart Contract**
 
