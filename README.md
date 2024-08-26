@@ -18,7 +18,7 @@
 <h3 align="left">Programming Languages:</h3>
 <h4 align="left">Smart Contract:</h4>
 <p align="left">  
-<a href="https://docs.soliditylang.org/en/v0.8.26/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/rioyuda02/Icons/main/Solidity/ethereum.svg" alt="Solidity" width="40" height="40"/><span>Solidity</span></a>
+<a href="https://docs.soliditylang.org/en/v0.8.26/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/rioyuda02/Icons/main/Solidity/ethereum.svg" alt="Solidity" width="40" height="40"/></a><span>Solidity</span>
   
 </p>
 
