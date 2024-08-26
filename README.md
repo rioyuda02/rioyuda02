@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/rioyuda02](https://github.com/rioyuda02)
 
-- 📝 I regularly write articles on [https://dev.to/rioyuda02](dev.to)
+- 📝 I regularly write articles on [dev.to](https://dev.to/rioyuda02)
 
 - 💬 Ask me about **Solidity, React, nextJS, etherJS, Typescript, Javascript, python, C++**
 
