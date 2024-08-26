@@ -23,8 +23,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/rioyuda02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="rioyuda02" height="30" width="40" /></a>
-<a href="https://twitter.com/rioyuda04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rioyuda04" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rio yudayanto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rio yudayanto" height="30" width="40" /></a>
+<a href="https://twitter.com/rioyuda04" target="blank"><img align="center" src="https://jumpshare.com/s/xGRGHgf3wqufvdFIInrW" alt="rioyuda04" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rioyudayanto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rio yudayanto" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/27020408" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="27020408" height="30" width="40" /></a>
 <a href="https://instagram.com/rioyuda04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rioyuda04" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/rioyuda04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rioyuda04" height="30" width="40" /></a>
