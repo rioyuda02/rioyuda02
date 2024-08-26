@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Blockchain, Web3 - dApp, Smart Contract**
 
-- 👨‍💻 All of my projects are available at [https://github.com/rioyuda02](https://github.com/rioyuda02)
+- 👨‍💻 All of my projects are available at [github](https://github.com/rioyuda02)
 
 - 📝 I regularly write articles on [dev.to](https://dev.to/rioyuda02)
 
