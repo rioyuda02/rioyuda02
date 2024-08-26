@@ -26,6 +26,7 @@
 <p align="left">  
 <a href="https://docs.soliditylang.org/en/v0.8.26/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/rioyuda02/Icons/main/Solidity/ethereum.svg" alt="Solidity" width="40" height="40"/></a>&#160&#160
 <a href="https://docs.ethers.org/v5/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/rioyuda02/Icons/main/EtherJS/ethers.svg" alt="EtherJS" width="40" height="40"/></a>&#160&#160
+<a href="https://book.getfoundry.sh/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/rioyuda02/Icons/main/Foundry/foundry.svg" alt="Foundry" width="80" height="40"/></a>&#160&#160
 
 <h4 align="left">Frontend Development:</h4>
 <p align="left">  
