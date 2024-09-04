@@ -10,7 +10,7 @@
 
 - 📝 I regularly write articles on [dev.to](https://dev.to/rioyuda02)
 
-- 💬 Ask me about **Solidity, React, nextJS, etherJS, Typescript, Javascript, python, C++**
+- 💬 Ask me about **Solidity, React, nextJS, etherJS, Typescript, Javascript, python, Java, C++**
 
 - 📫 How to reach me **rio.yudayanto244@gmail.com**
 
