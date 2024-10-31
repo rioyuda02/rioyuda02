@@ -21,7 +21,7 @@
 <a href="https://www.python.org/" target="_blank" rel="noreferrer noopener"> <img src="https://raw.githubusercontent.com/rioyuda02/Icons/main/Python/python.svg" alt="Python" width="40" height="40"/></a>&#160&#160
 <a href="https://www.java.com/en/" target="_blank" rel="noreferrer noopener"> <img src="https://raw.githubusercontent.com/rioyuda02/Icons/main/Java/java.svg" alt="Java" width="40" height="40"/></a>&#160&#160
 <a href="https://en.wikibooks.org/wiki/C%2B%2B_Programming" target="_blank" rel="noreferrer noopener"> <img src="https://raw.githubusercontent.com/rioyuda02/Icons/main/C%2B%2B/c.svg" alt="C++" width="40" height="40"/></a>&#160&#160
-<a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer noopener"> <img src="https://raw.githubusercontent.com/rioyuda02/Icons/refs/heads/main/Rust/rust.svg" alt="Rust" width="100%" height="100%"/></a>&#160&#160
+<a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer noopener"> <img src="https://raw.githubusercontent.com/rioyuda02/Icons/refs/heads/main/Rust/rust.svg" alt="Rust" width="40px" height="40px"/></a>&#160&#160
 
 <h4 align="left">Smart Contract:</h4>
 <p align="left">  
