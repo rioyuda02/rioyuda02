@@ -10,17 +10,18 @@
 
 - 📝 I regularly write articles on [dev.to](https://dev.to/rioyuda02)
 
-- 💬 Ask me about **Solidity, React, nextJS, etherJS, Typescript, Javascript, python, Java, C++**
+- 💬 Ask me about **Solidity, Rust, React, nextJS, etherJS, Typescript, Javascript, python, Java, C++**
 
 - 📫 How to reach me **rio.yudayanto244@gmail.com**
 
 
 <h3 align="left">Programming Languages:</h3>
-<a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/rioyuda02/Icons/main/JS/js.svg" alt="JS" width="40" height="40"/></a>&#160&#160
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/rioyuda02/Icons/main/TypeScript/typescript.svg" alt="Typescript" width="40" height="40"/></a>&#160&#160
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/rioyuda02/Icons/main/Python/python.svg" alt="Python" width="40" height="40"/></a>&#160&#160
-<a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/rioyuda02/Icons/main/Java/java.svg" alt="Java" width="40" height="40"/></a>&#160&#160
-<a href="https://en.wikibooks.org/wiki/C%2B%2B_Programming" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/rioyuda02/Icons/main/C%2B%2B/c.svg" alt="C++" width="40" height="40"/></a>&#160&#160
+<a href="https://www.javascript.com/" target="_blank" rel="noreferrer noopener"> <img src="https://raw.githubusercontent.com/rioyuda02/Icons/main/JS/js.svg" alt="JS" width="40" height="40"/></a>&#160&#160
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer noopener"> <img src="https://raw.githubusercontent.com/rioyuda02/Icons/main/TypeScript/typescript.svg" alt="Typescript" width="40" height="40"/></a>&#160&#160
+<a href="https://www.python.org/" target="_blank" rel="noreferrer noopener"> <img src="https://raw.githubusercontent.com/rioyuda02/Icons/main/Python/python.svg" alt="Python" width="40" height="40"/></a>&#160&#160
+<a href="https://www.java.com/en/" target="_blank" rel="noreferrer noopener"> <img src="https://raw.githubusercontent.com/rioyuda02/Icons/main/Java/java.svg" alt="Java" width="40" height="40"/></a>&#160&#160
+<a href="https://en.wikibooks.org/wiki/C%2B%2B_Programming" target="_blank" rel="noreferrer noopener"> <img src="https://raw.githubusercontent.com/rioyuda02/Icons/main/C%2B%2B/c.svg" alt="C++" width="40" height="40"/></a>&#160&#160
+<a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer noopener"> <img src="https://raw.githubusercontent.com/rioyuda02/Icons/refs/heads/main/Rust/rust.svg" alt="Rust" width="40" height="40"/></a>&#160&#160
 
 <h4 align="left">Smart Contract:</h4>
 <p align="left">  
