@@ -39,6 +39,7 @@
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/rioyuda02/Icons/main/Bootstrap/bootstrap.svg" alt="Bootstrap" width="40" height="40"/></a>&#160&#160
 <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/rioyuda02/Icons/main/Sass/sass.svg" alt="Sass" width="40" height="40"/></a>&#160&#160
 <a href="https://web.dev/learn/css" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/rioyuda02/Icons/main/CSS/css.svg" alt="CSS" width="40" height="40"/></a>&#160&#160
+<a href="https://element-plus.org" target"_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/rioyuda02/Icons/refs/heads/main/ElementPlus/element-plus.svg" alt="Element-Plus" height="40"/><a/>&#160&#160
 
 <h4 align="left">Backend Development:</h4>
 <p align="left">  
